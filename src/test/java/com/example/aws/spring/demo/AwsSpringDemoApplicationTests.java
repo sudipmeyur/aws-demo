@@ -8,7 +8,7 @@ class AwsSpringDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//TEST
+		//TEST TEST
 	}
 
 }
