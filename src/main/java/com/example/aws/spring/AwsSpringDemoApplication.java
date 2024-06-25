@@ -1,4 +1,4 @@
-package com.example.aws.spring.demo;
+package com.example.aws.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
